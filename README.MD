@@ -1,5 +1,6 @@
 
 # From HTMl to JS to React
+#### Convert raw HTML to JS to JS Function Based
 
 ## Installation
 
@@ -14,6 +15,8 @@
 - Follow `step1` then `step2` then `step3`.
 - `react-version` folder contains the react version of code insde `step3`
 
+## The QA
+[Answer to our Question](https://github.com/scorcism/html-js-react/blob/main/QA.js)
 
 ## Tech Stack
 
